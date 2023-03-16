@@ -1,7 +1,7 @@
 import subprocess
 
 def logo():
-	
+	print("im just trying this froo educational purposes")
 
 	print("""
 
