@@ -28,5 +28,3 @@ mac-changer is a Python-based project that provides a convenient way to change t
 python mac-changer.py
 
  
- 
- ||Demo Video|| https://drive.google.com/file/d/1NBf9UV5J7k76ndNFhFPEUhiyHcPlu995/view?usp=sharing
